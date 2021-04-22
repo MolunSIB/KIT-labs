@@ -4,3 +4,5 @@ DSTU
 
 5-6лаб находится в репозитории kit
 https://csb-fv6dp.netlify.app
+
+8lab https://csb-9wzdz.netlify.app
