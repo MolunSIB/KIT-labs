@@ -7,3 +7,5 @@ DSTU
 7lab регистрация на Slack
 
 8lab https://csb-9wzdz.netlify.app
+
+10lab https://ilyalab10.herokuapp.com
