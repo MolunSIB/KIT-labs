@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   function logOut() {
+    localStorage.removeItem("registered");
     localStorage.removeItem("login");
     localStorage.removeItem("password");
-    localStorage.removeItem("registered");
     window.location.reload();
   }
   return (
