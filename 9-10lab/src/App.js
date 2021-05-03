@@ -1,10 +1,10 @@
 import React from "react";
 import "./styles.css";
-import Layout from "./components/Layout";
-import MainPage from "./components/MainPage";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import ProfilePage from "./components/ProfilePage";
 import SignInPage from "./components/SignInPage";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import Layout from "./components/Layout";
+import MainPage from "./components/MainPage";
 
 const App = () => {
   return (
